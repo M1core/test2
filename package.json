@@ -1,8 +1,9 @@
 {
-  "name": "9",
-  "version": "0.0.200",
+  "name": "lab-9",
+  "version": "1.0.0",
   "description": "a really cool app",
   "keywords": [],
+  "type": "module",
   "main": "main/index.js",
   "dependencies": {
     "react": "16.12.0",
@@ -13,7 +14,6 @@
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
-    "react-scripts": "1.0.0",
     "typescript": "3.3.3"
   },
   "scripts": {
