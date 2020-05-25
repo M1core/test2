@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter, Route } from "react-router-dom";
-import MainPage from "/main/dop/MainPage";
-import SignInPage from "/main/dop/SignInPage";
-import ProfilePage from "/main/dop/ProfilePage";
-import PrivatRoute from "/main/dop/PrivateRoute";
+import MainPage from "./dop/MainPage";
+import SignInPage from "./dop/SignInPage";
+import ProfilePage from "./dop/ProfilePage";
+import PrivatRoute from "./dop/PrivateRoute";
 
 ReactDOM.render(
   <BrowserRouter>
