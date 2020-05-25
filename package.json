@@ -4,7 +4,7 @@
   "description": "a really cool app",
   "keywords": [],
   "type": "module",
-  "main": "main/index.js",
+  "main": "src/index.js",
   "dependencies": {
     "react": "16.12.0",
     "react-bootstrap": "1.0.0-beta.16",
